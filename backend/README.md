@@ -17,3 +17,17 @@ npm install
 mongod (mongo ejecutandose)
 su BD estará vacía, pedir BD con datos iniciales al Jefe de proyecto
 nodemon index.js
+
+# VARIABLES DE ENTORNO EN ESTE PROYECTO
+
+* PISE_DB_USER: Usuario MongoDB
+* PISE_DB_PASSWORD: Password MongoDB
+* DB_PORT: Puerto MongoDB
+* NODE_ENV: Development o Production
+* SEED: true o false (para datos seed)
+* AWS_KEY: AWS Key
+* AWS_ID: AWS Id
+* AWS_BUCKET_NAME: Nombre Bucket AWS S3
+* PISE_SECRET: Secret para JWT
+* PISE_EMAIL: Email gmail
+* PISE_EMAIL_PWD: Password email gmail
