@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "sdkVersion": "35.0.0",
+    "slug": "piseapp",
+    "loading": {
+      "hideExponentText": true,
+    },
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "sourceExts": [
+        "vue",
+        "js",
+        "json",
+        "ts",
+        "tsx"
+      ],
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    },
+    "name": "pise-app",
+    "version": "0.1.0",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
